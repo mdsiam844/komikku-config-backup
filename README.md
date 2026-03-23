@@ -344,9 +344,9 @@ After restoring your Komikku backup, it is essential to perform a thorough verif
 
 I typically place manga I plan to read this week in `RDN1` and manga planned for the month or later in `RDN2`.
 
-Categories can be customized if you go to **More ⋮** then to **Categories**. It allows you to create, hide, or rearrange categories.
+> Categories can be customized if you go to **More ⋮** then go to **Categories**. It allows you to create, hide, or rearrange categories.
 
-To assign a manga to a category, open the entry and click the heart icon. By default, new manga are added to `RDN1`, but holding the heart icon lets you select one or multiple categories.
+> To assign a manga to a category, open the entry and click the heart icon. By default, new manga are added to `RDN1`, but holding the heart icon lets you select one or multiple categories.
 
 ## Conclusion
 Following these steps ensures that your Komikku library is fully restored, properly categorized, and synchronized with tracking services. Verifying the library, covers, updates, and sources prevents potential data inconsistencies, while the category system allows for a personalized reading workflow. By completing this verification, you can confidently continue enjoying your manga and manhwa collection with seamless progress tracking and efficient library management.
